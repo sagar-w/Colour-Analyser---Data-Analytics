@@ -3,8 +3,13 @@ Three different colors Red, Green and Blue are being tracked by utilizing the fu
 <table style="width:100%">
   <tr>
     <th><img src="sample.jpg" hight="400" width="450"/></th>
-    <th><img src="op.png" hight="400" width="450"/></th>
+    <th><img src="op 3.png" hight="400" width="450"/></th>
     
   </tr>
+  
+  <tr>
+    <th><img src="op 1.png" hight="400" width="450"/></th>
+    <th><img src="op 2.png" hight="400" width="450"/></th>
+    </tr>
 
 </table>
